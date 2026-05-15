@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,ak as h}from"./chunks/framework.BGczKyuH.js";const g=JSON.parse('{"title":"PHP 面向对象编程","description":"","frontmatter":{},"headers":[],"relativePath":"php/oop.md","filePath":"php/oop.md"}'),k={name:"php/oop.md"};function l(p,s,t,e,E,r){return a(),n("div",null,[...s[0]||(s[0]=[h("",31)])])}const y=i(k,[["render",l]]);export{g as __pageData,y as default};
